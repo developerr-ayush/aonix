@@ -1,0 +1,19 @@
+.form {
+  &-group {
+    margin-block: 2rem;
+  }
+  &-control {
+    background-color: var(--input-bg, #fff);
+    border: 1px solid var(--input-border-color, #fff);
+    color: var(--input-color, #fff);
+    padding: 1rem;
+    font-size: 1.6rem;
+    border-radius: 0.5rem;
+    width: 100%;
+    backdrop-filter: blur(3rem);
+  }
+  &-error {
+    font-size: 1.3rem;
+    color: #a70000;
+  }
+}

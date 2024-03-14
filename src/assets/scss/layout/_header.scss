@@ -1,0 +1,19 @@
+@use "../config/" as *;
+header {
+  padding: 2rem 3rem;
+  position: absolute;
+  inset: 4rem 0 auto;
+  display: flex;
+  justify-content: center;
+  z-index: 3;
+  img {
+    width: var(--logo-width);
+    height: var(--logo-height);
+  }
+  @include mq(md) {
+    position: fixed;
+    justify-content: unset;
+    top: 0;
+    left: 5rem;
+  }
+}

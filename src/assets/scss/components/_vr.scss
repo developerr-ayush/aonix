@@ -1,0 +1,29 @@
+@use "../config/" as *;
+.vr {
+  &-image {
+    mask-image: url("/images/vr.webp");
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+  }
+  &-wrap {
+    position: relative;
+    padding: 2.5vw;
+    background-image: url("/images/vr-border.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    img {
+      transition: 1s ease-in-out;
+      aspect-ratio: 394/197;
+    }
+    &:hover {
+      img {
+        scale: 1.2;
+      }
+    }
+    @include mq(md) {
+      padding: 1.3vw;
+    }
+  }
+}

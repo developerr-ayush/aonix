@@ -1,0 +1,51 @@
+@use "../config" as *;
+aside {
+  position: absolute;
+  top: 10rem;
+  width: var(--sidebar);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  @include mq(md) {
+    position: fixed;
+    inset-block: 0;
+    left: 7rem;
+  }
+  ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    @include mq(md) {
+      display: block;
+    }
+  }
+  li {
+    margin-block: 2rem;
+    padding: 1rem;
+    cursor: pointer;
+  }
+  a {
+    display: block;
+    padding: 0.5rem;
+  }
+  .text {
+    display: none;
+  }
+  .active {
+    --nav-color: var(--primary);
+    color: var(--primary);
+    position: relative;
+    &::after {
+      content: "";
+      width: 0.4rem;
+      height: 0.4rem;
+      border-radius: 50%;
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: var(--nav-color);
+    }
+  }
+}

@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "SchoolVR",
+    "maintext": "Introducing SchoolVR, a state-of-the-art Virtual Reality (VR) educational app designed to revolutionize the learning experience. With a sleek, futuristic interface, SchoolVR offers an immersive, interactive environment that brings education to life. Our feature-rich platform integrates advanced analytics and Artificial Intelligence (AI) to provide personalized learning paths for each student. Teachers and schools can leverage these insights to tailor instruction, enhancing engagement and improving outcomes. Parents gain a window into their child’s progress, with detailed reports highlighting strengths and areas for improvement. But most importantly, students are empowered in their learning journey, exploring concepts at their own pace in a stimulating VR world. SchoolVR is not just an app; it’s a universe of knowledge at your fingertips. Join us in shaping the future of education.",
+    "subproduct": [
+      {
+        "id": 0,
+        "title": "AtomVerse",
+        "subtitle": " Dive into the Microcosmos, Where Learning Becomes Elemental.",
+        "para": "Atomverse is an innovative virtual reality (VR) application aimed at revolutionizing the way students learn physics. It offers an immersive, interactive, and gamified learning experience tailored to the Physics Cambridge Syllabus 2023. By leveraging cutting-edge VR technology, Atomverse seeks to make the study of physics engaging, enjoyable, and highly effective.",
+        "features": [
+          "Physics Gamification and Challenges",
+          "Virtual Laboratories for Hands-on Experiments",
+          "Space Physics Exploration",
+          "Personalized Learning Paths"
+        ],
+        "video": "https://www.youtube.com/embed/_hQbVKw825o"
+      },
+      {
+        "id": 1,
+        "title": "BioVerse",
+        "subtitle": "Unleashing the Wonders of Life, One Cell at a Time",
+        "para": "Bioverse is an innovative virtual reality (VR) application designed to revolutionize the way students learn biology. Aligned with the Biology Cambridge Syllabus 2023, Bioverse offers an immersive, interactive, and gamified learning experience that makes biology education captivating and effective.",
+        "features": [
+          "Interactive 3D Cellular Exploration.",
+          "Realistic Biological Processes Simulations",
+          "Gamified Disease and Immunity Modules",
+          "Ecology and Environmental Dynamics Exploration."
+        ],
+        "video": "https://www.youtube.com/embed/-zBhr1-Pjds"
+      },
+      {
+        "id": 2,
+        "title": "Chemverse",
+        "subtitle": "Transforming Learning, One Molecule at a Time.",
+        "para": "Chemverse is a pioneering virtual reality (VR) application designed to transform the way students grasp the concepts of chemistry. Tailored to the Chemistry Cambridge Syllabus 2023, it offers a captivating, interactive, and gamified learning experience. By harnessing the power of state-of-the-art VR technology, Chemverse aspires to make chemistry studies captivating, pleasurable, and highly effective.",
+        "features": [
+          "Interactive 3D Molecular Modeling.",
+          "Real-world Biotechnology Simulations",
+          "Gamified Chemistry Challenges",
+          "Chemical Reaction Virtual Experiments"
+        ],
+        "video": "https://www.youtube.com/embed/fvL4estV9Yg"
+      },
+      {
+        "id": 3,
+        "title": "GeoVerse",
+        "subtitle": "Explore the World, Transforming Geography into an Adventure.",
+        "para": "Geoverse is a groundbreaking virtual reality (VR) application crafted to revolutionize the way students explore and understand geography. Aligned with the Geography Cambridge Syllabus 2023, Geoverse offers an immersive, interactive, and gamified learning experience that makes geography education captivating and effective. Geoverse will cover the following key themes:",
+        "features": [
+          "Virtual World Geography Exploration.",
+          "Dynamic Climate Change Simulations",
+          "Cultural Immersion and Global Perspectives.",
+          "Interactive Map-Based Learning Games"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "SpaceVerse",
+        "subtitle": "Beyond Boundaries, Unraveling the Mysteries of the Universe. ",
+        "para": "Experience the wonders of our solar system like never before with Planeteria, our affordable and innovative VR educational app. Explore each planet in stunning detail and learn about their unique features and characteristics. With Planeteria, you can visit distant worlds and discover the secrets of the universe from the comfort of your own home. Plus, with our built-in quiz functionality, you can test your knowledge and track your progress as you go. Our app is suitable for all ages and is an exciting new way to learn about space and the solar system.",
+        "features": [
+          "Enhanced visualization and understanding.",
+          "Increased engagement and motivation.",
+          "Personalized Learning experience",
+          "Enhanced communication and collaboration."
+        ],
+        "video": "https://www.youtube.com/embed/SMbCN-98Yow"
+      }
+    ],
+    "themecolor": "#1371ff"
+  },
+  {
+    "id": 2,
+    "name": "ReBuild",
+    "maintext": "Rebuild is an affordable and innovative VR interior design app that allows you to fully visualize and experience your design concepts in a virtual space before any physical work is done. With Rebuild, you can easily experiment with different furniture and finishes, and see how they will look and function in your space. Our app also makes it easier for designers to communicate with clients and create immersive, interactive experiences. Plus, with Rebuild, you'll save time and resources while creating your dream space. Try Rebuild today and see how VR interior design can revolutionize your next project!",
+    "themecolor": "#A1C168",
+    "comingsoon": true,
+    "features": [
+      "Reduce Carbon Footprint.",
+      "Visualise and Experience the Design.",
+      "Save time and Resources.",
+      "Enhanced communication and collaboration."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "GameVerse",
+    "maintext": "AONIX Gameverse is a pioneering venture by AONIX, dedicated to revolutionizing the gaming industry through cutting-edge Virtual Reality (VR) technology. With a vision to make immersive gaming experiences accessible to all, we have established VR gaming centers at diverse locations, ensuring that enthusiasts of all ages and backgrounds can step into a world of unparalleled virtual adventures. Our commitment lies in merging state-of-the-art hardware with expertly crafted interactive games, delivering a seamless fusion of reality and imagination. From classics like VR Ludo to innovative VR card games and beyond, AONIX Gameverse invites you to embark on a journey where reality fades, and epic experiences unfold in breathtaking dimensions.",
+    "themecolor": "#FF4FD3",
+    "comingsoon": true,
+    "features": [
+      "Expertly Crafted Games.",
+      "Unparalled Realism.",
+      "Cutting-Edge Hardware.",
+      "Innovative Gameplay Mechanics.",
+      "Accesible Affordability."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Engine",
+    "maintext": "AONIX Engine represents a revolutionary leap in immersive training and simulation technology. Engine is a comprehensive Virtual Reality (VR) platform meticulously designed to provide realistic, hands-on training experiences across a multitude of industries. From engineering equipment operations to intricate medical procedures, and from industrial protocols to specialised skill development, Engine is the quintessential solution for fostering expertise through experiential learning in a virtual environment. ",
+    "features": [
+      "Realistic Simulation.",
+      "Multi-Industry Application.",
+      "Enhanced Learning Retention.",
+      "Safety in Training.",
+      "Customizable Training Modules."
+    ],
+    "comingsoon": true,
+    "themecolor": "#A0A0A0"
+  }
+]
